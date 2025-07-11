@@ -16,7 +16,7 @@ I’m currently exploring Python, GitHub, and core coding skills with the goal o
 | File | Description |
 |------|-------------|
 | [`hello_world.py`](hello_world.py) | My first Python script — the beginning of my journey! |
-| `calculator.py` | (Coming Soon) A command-line calculator with +, -, *, / |
+| `calculator.py` | (calculator.py) A command-line calculator with +, -, *, / |
 | `guess_the_number.py` | (Planned) A game where the user guesses a random number |
 | `dice_roller.py` | (Planned) Simulate a dice roll with random module |
 | `todo_cli.py` | (Future) A simple command-line To-Do list manager |
