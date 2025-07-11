@@ -1,50 +1,52 @@
 # 🐍 Python Mini Projects
 
-Welcome to my Python mini-projects collection!  
-This repo holds beginner-friendly Python projects I'm building as I learn the language.
+Welcome to my collection of beginner-friendly Python projects!  
+This repository documents my coding journey as I explore and grow in Python.
 
 ---
 
 ## 👨‍💻 About Me
-I'm Arinjay Shyam Saikia, a 2nd-year B.Tech CSE-AIML student at SRM University.  
-I’m currently exploring Python, GitHub, and core coding skills with the goal of becoming an expert in AI & Machine Learning.
+
+I'm **Arinjay Shyam Saikia**, a 2nd-year B.Tech CSE-AIML student at SRM University.  
+Currently learning Python, GitHub, and core programming concepts — with a long-term goal of becoming an AI & Machine Learning expert.
 
 ---
 
-## 📁 Projects (So Far)
+## 📁 Projects
 
-| File | Description |
-|------|-------------|
-| [`hello_world.py`](hello_world.py) | My first Python script — the beginning of my journey! |
-| `calculator.py` | (calculator.py) A command-line calculator with +, -, *, / |
-| `guess_the_number.py` | (Planned) A game where the user guesses a random number |
-| `dice_roller.py` | (Planned) Simulate a dice roll with random module |
-| `todo_cli.py` | (Future) A simple command-line To-Do list manager |
-| `password_generator.py` | (Planned) Generates strong random passwords |
-| `weather_checker.py` | (Future) Checks real-time weather using an API |
-| `text_analyzer.py` | (Planned) Analyzes word/character count, readability |
-| `rock_paper_scissors.py` | (Planned) Play against the computer! |
-| `unit_converter.py` | (Future) Convert between temperature, weight, etc. |
-| `simple_chatbot.py` | (Future) A basic rule-based chatbot in Python |
+| File | Description | Status |
+|------|-------------|--------|
+| [`hello_world.py`](hello_world.py) | My first Python script — where it all began! | ✅ Done |
+| [`calculator.py`](calculator.py) | A command-line calculator with +, -, ×, ÷ | ✅ Done |
+| `guess_the_number.py` | A game where the user guesses a random number | 🔜 Planned |
+| `dice_roller.py` | Simulates a dice roll using the `random` module | 🔜 Planned |
+| `todo_cli.py` | Command-line To-Do list manager with save/load features | 🛠️ In Progress |
+| `password_generator.py` | Generates secure random passwords | 🔜 Planned |
+| `weather_checker.py` | Real-time weather app using an API | 🔜 Future |
+| `text_analyzer.py` | Analyzes text: word count, char count, readability | 🔜 Planned |
+| `rock_paper_scissors.py` | Play RPS against the computer! | 🔜 Planned |
+| `unit_converter.py` | Convert between temperature, weight, etc. | 🔜 Future |
+| `simple_chatbot.py` | A basic rule-based chatbot in Python | 🔜 Future |
 
-🚧 *These projects will be added one-by-one as I learn. Some will evolve into more advanced versions later.*
+> 🚧 More projects will be added as I learn. Some will evolve into more advanced versions too!
 
 ---
 
 ## 🧠 Learning Milestones
 
-- ✅ Write my first Python script (`hello_world`)
-- 🔄 Learn `input()`, `if`, `while`, `for`, and functions
-- 🔄 Practice using lists, dictionaries, strings
-- ⏳ Learn how to work with files (`.txt`, `.csv`)
-- ⏳ Start using modules like `random`, `datetime`, `requests`
-- 🔜 Integrate beginner APIs (weather, jokes, etc.)
+- ✅ Write my first Python script (`hello_world.py`)
+- 🔁 Master `input()`, `if`, `while`, `for`, and functions
+- 🔁 Practice with lists, dictionaries, strings
+- ⏳ Learn file handling (`.txt`, `.csv`)
+- ⏳ Start using built-in modules (`random`, `datetime`, `requests`)
+- 🔜 Integrate APIs (weather, jokes, quotes)
 - 🔜 Learn object-oriented programming (OOP)
-- 🔜 Build GUI apps (Tkinter / PySimpleGUI)
+- 🔜 Build GUI apps using Tkinter or PySimpleGUI
 
 ---
 
 ## ⚙️ Tools I Use
+
 - Python 3.x
 - VS Code / Jupyter / Google Colab
 - Git & GitHub
@@ -52,25 +54,30 @@ I’m currently exploring Python, GitHub, and core coding skills with the goal o
 ---
 
 ## 📅 Timeline
-> Started in July 2025  
-> Goal: Add 1–2 projects every week or two  
-> Publicly documenting my journey as a beginner coder
+
+> **Started:** July 2025  
+> **Goal:** Add 1–2 projects every 1–2 weeks  
+> Documenting my journey publicly to stay consistent and accountable
 
 ---
 
 ## 🤝 Contributions Welcome
+
+Want to help or learn together?  
 Feel free to:
-- Fork this repo
-- Suggest project ideas
-- Submit beginner issues
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/arinjay-shyam-saikia-360689219/)
+
+- ⭐ Star this repo
+- 🍴 Fork & build your own version
+- 💡 Suggest beginner project ideas
+- 🐛 Submit beginner-friendly issues
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arinjay-shyam-saikia-360689219/)
 
 ---
 
-## 🧠 Learn with Me
-I'm learning in public.  
-If you're starting out in Python, you're not alone — let's grow together!
+## 🧠 Learn With Me
 
----
+I'm learning in public — if you're also a Python beginner, you're not alone.  
+Let’s grow together, one line of code at a time!
 
-> 🧩 *“Small progress each day adds up to big results.”*
+> ✨ *“Small progress each day adds up to big results.”*
+
