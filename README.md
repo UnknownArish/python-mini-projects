@@ -26,7 +26,7 @@ Currently learning Python, GitHub, and core programming concepts — with a long
 | `text_analyzer.py` | Analyzes text: word count, char count, readability | 🔜 Planned |
 | `rock_paper_scissors.py` | Play RPS against the computer! | 🔜 Planned |
 | `unit_converter.py` | Convert between temperature, weight, etc. | 🔜 Future |
-| {`simple_chatbot.py`](simple_chatbot.py) | A basic rule-based chatbot in Python | ✅ Future |
+| [`simple_chatbot.py`](simple_chatbot.py) | A basic rule-based chatbot in Python | ✅ Future |
 
 > 🚧 More projects will be added as I learn. Some will evolve into more advanced versions too!
 
