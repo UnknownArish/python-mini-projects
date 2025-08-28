@@ -23,8 +23,7 @@ Currently learning Python, GitHub, and core programming concepts — with a long
 | `todo_cli.py` | Command-line To-Do list manager with save/load features | 🛠️ In Progress |
 | `password_generator.py` | Generates secure random passwords | 🔜 Planned |
 | `weather_checker.py` | Real-time weather app using an API | 🔜 Future |
-| `text_analyzer.py` | Analyzes text: word count, char count, readability | 🔜 Planned |
- cd /run/media/cryptic/Shared\ Storage/projects/Python/Python\ Projects/Github/python-mini-projects ; /usr/bin/env /bin/python /home/cryptic/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56781 -- /run/media/cryptic/Shared\ Storage/projects/Python/Python\ Projects/Github/python-mini-projects/guess_the_number.py 
+| `text_analyzer.py` | Analyzes text: word count, char count, readability | 🔜 Planned | 
 | `rock_paper_scissors.py` | Play RPS against the computer! | 🔜 Planned |
 | `unit_converter.py` | Convert between temperature, weight, etc. | 🔜 Future |
 | [`simple_chatbot.py`](simple_chatbot.py) | A basic rule-based chatbot in Python | ✅ Future |
