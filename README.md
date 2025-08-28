@@ -18,7 +18,7 @@ Currently learning Python, GitHub, and core programming concepts — with a long
 |------|-------------|--------|
 | [`hello_world.py`](hello_world.py) | My first Python script — where it all began! | ✅ Done |
 | [`calculator.py`](calculator.py) | A command-line calculator with +, -, ×, ÷ | ✅ Done |
-| `guess_the_number.py` | A game where the user guesses a random number | 🔜 Planned |
+| [`guess_the_number.py`](guess_the_number.py) | A game where the user guesses a random number | 🔜 Planned |
 | `dice_roller.py` | Simulates a dice roll using the `random` module | 🔜 Planned |
 | `todo_cli.py` | Command-line To-Do list manager with save/load features | 🛠️ In Progress |
 | `password_generator.py` | Generates secure random passwords | 🔜 Planned |
